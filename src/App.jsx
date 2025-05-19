@@ -37,7 +37,7 @@ function App() {
             <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2'>
               <div className='p-4  rounded-lg  transition transform duration-500'>
                 <div className='w-full ' data-aos="fade-right" data-aos-duration="1000">
-                  <h1 className='text-6xl mb-4 text-gray-300'>Giridharan R</h1>
+                  <h1 className='text-6xl mb-4 text-gray-300'>Yuvarani V</h1>
                   <h2 className="text-2xl text-gray-300">Software Developer</h2>
                   <p className="py-6 text-2xl text-gray-400">I I am a Full Stack (Front-End Focus) Developer with over 4 years of experience, specializing in front-end technologies like React while gaining proficiency in back-end development.I enjoy solving complex problems and thrive in fast-paced environments. I'm passionate about continuous learning and staying up-to-date with the latest tech trends. Collaborative by nature, I work well in teams to achieve impactful project outcomes.</p>
               </div>
