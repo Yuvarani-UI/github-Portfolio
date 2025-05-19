@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Yuvarani-UI/github-Portfolio",
+  "homepage": "https://yuvarani-ui.github.io/github-Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
